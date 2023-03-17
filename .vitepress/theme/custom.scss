@@ -1,0 +1,23 @@
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+@import url(bootstrap-icons/font/bootstrap-icons.css);
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+:root {
+	--vp-c-brand: #0d6efd;
+        --vp-c-brand-dark: #0a58ca;
+
+        --vp-button-brand-bg: var(--vp-c-brand);
+	--vp-button-brand-border: var(--vp-c-brand);
+        --vp-button-brand-hover-bg: var(--vp-c-brand-dark);
+        --vp-button-brand-hover-border: var(--vp-c-brand-dark);
+
+        --vp-button-alt-bg: var(--vp-c-mute);
+	--vp-button-alt-border: var(--vp-c-mute);
+	--vp-button-alt-hover-bg: var(--vp-c-mute-dark);
+	--vp-button-alt-hover-border: var(--vp-c-mute-dark);
+}
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+
